@@ -1,0 +1,9 @@
+target
+.idea
+*.iml
+*.pid
+*.mvn
+*.doc
+*.docx
+*.log
+logs
